@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ShowCase</string>
+    <string-array name="lab_list">
+        <item>Text duplicator</item>
+        <item>Simple calc</item>
+        <item>Take a photo</item>
+    </string-array>
+    <string name="title_activity_text_duplicator">TextDuplicatorActivity</string>
+    <string name="btn_pressed">Buttons pressed:</string>
+    <string name="calc_btn_C_name">C</string>
+    <string name="calc_btn_div_name">/</string>
+    <string name="calc_btn_mult_name">*</string>
+    <string name="calc_btn_min_name">-</string>
+    <string name="calc_btn_7_name">7</string>
+    <string name="calc_btn_8_name">8</string>
+    <string name="calc_btn_9_name">9</string>
+    <string name="calc_btn_plus_name">+</string>
+    <string name="calc_btn_1_name">1</string>
+    <string name="calc_btn_dot_name">.</string>
+    <string name="calc_btn_eq_name">=</string>
+    <string name="calc_btn_4_name">4</string>
+    <string name="calc_btn_5_name">5</string>
+    <string name="calc_btn_6_name">6</string>
+    <string name="calc_btn_plusminus_name">+/-</string>
+    <string name="calc_btn_2_name">2</string>
+    <string name="calc_btn_3_name">3</string>
+    <string name="calc_btn_percent_name">%</string>
+    <string name="calc_btn_0_name">0</string>
+</resources>
